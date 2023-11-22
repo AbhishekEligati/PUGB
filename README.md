@@ -1,2 +1,3 @@
 # PUGB
 second Project
+PlayerUnknown's Battlegrounds (PUBG) is a popular online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of South Korean video game company Bluehole. The game was created by Brendan "PlayerUnknown" Greene and was inspired by the Japanese film "Battle Royale." PUBG was initially released for Microsoft Windows via Steam's early access beta program in March 2017, and it later expanded to other platforms, including Xbox One, PlayStation 4, and mobile devices.
